@@ -39,10 +39,14 @@ To run the server, run:
 <pre>node server.js</pre>
 
 Set-up video
+[Uploading Untitled_ Feb 5, 2023 9_07 PM.webm…]()
 
 Tags video
+[tags.webm](https://user-images.githubusercontent.com/115053067/216894102-6d12a642-28e6-48ba-9e9a-0ddc444dfd3a.webm)
 
-Categories video
+
+Product Video
+[Untitled_ Feb 5, 2023 9_32 PM.webm](https://user-images.githubusercontent.com/115053067/216893981-0e4cb419-3695-4a15-bf01-3553729b43cd.webm)
 
 ## License
 
