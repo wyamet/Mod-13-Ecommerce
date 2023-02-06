@@ -25,18 +25,18 @@ Using a local database, ecommerce_db,
 
 <pre>mysql -u root -p</pre>
 
-Enter mysql info
+Enter mysql db info
 
 <pre>SOURCE db\schema.sql</pre>
 <pre>exit</pre>
 
-To seed, run:
+Then seed the db, run:
 
-node run seed
+<pre>node run seed</pre>
 
 To run the server, run:
 
-node server.js<
+<pre>node server.js</pre>
 
 Set-up video
 
